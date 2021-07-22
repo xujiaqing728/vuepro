@@ -1,5 +1,6 @@
 <template>
   <div class="nav">
+    <div>2222222222222222222222</div>
     <div class="nav-item">
       <router-link to="/">
         <div class="icon"><i class="iconfont icon-biaoqiankuozhan_shouye-326"></i></div>
